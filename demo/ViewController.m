@@ -20,5 +20,9 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (NSString *)checkData:(NSString *)string {
+    return @"hello";
+}
+
 
 @end
