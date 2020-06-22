@@ -285,11 +285,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: yinli yang (38F4BVP8J4)";
+				CODE_SIGN_IDENTITY = "Apple Development: yang yinli (38F4BVP8J4)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = BG446H7QVQ;
 				INFOPLIST_FILE = demo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,11 +305,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: yinli yang (38F4BVP8J4)";
+				CODE_SIGN_IDENTITY = "Apple Development: yang yinli (38F4BVP8J4)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = BG446H7QVQ;
 				INFOPLIST_FILE = demo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
